@@ -1,4 +1,4 @@
-加群咨询 https://t.me/oyDevelopersClub
+**交流群 https://t.me/oyDevelopersClub**
 
 这是一款针对✈️号商专用的自动发货机器人
 1️⃣mysql数据库随便抽插数据  
@@ -25,7 +25,7 @@
 
 1️⃣2️⃣商品添加库存后推送信息通知到频道 
 
-更多功能联系客服咨询，可按要求定制功能，额外增加想要的功能。 https://t.me/oyDevelopersClub
+**更多功能联系客服咨询，可按要求定制功能，额外增加想要的功能。 https://t.me/oyDevelopersClub**
 
 ![image](https://github.com/user-attachments/assets/1a8dfb09-65b3-4b59-b08b-dc8475c9fd09)
 
